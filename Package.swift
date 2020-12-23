@@ -15,6 +15,6 @@ let package = Package(
             name: "SortedSet",
             path: "Sources"
         ),
-    ]
+    ],
     swiftLanguageVersions: [.v5]
 )
