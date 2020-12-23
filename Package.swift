@@ -13,7 +13,7 @@ let package = Package(
     targets: [
         .target(
             name: "SortedSet",
-            path: "SortedSet"
+            path: "Sources"
         ),
     ]
     swiftLanguageVersions: [.v5]
