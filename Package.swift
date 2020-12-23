@@ -1,4 +1,4 @@
-// swift-tools-version:5.1
+// swift-tools-version:5.0
 
 import PackageDescription
 
@@ -16,4 +16,5 @@ let package = Package(
             path: "SortedSet"
         ),
     ]
+    swiftLanguageVersions: [.v5]
 )
